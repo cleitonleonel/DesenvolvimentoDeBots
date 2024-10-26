@@ -61,6 +61,8 @@ article: true
 
 ## Projetos criado pela comunidade
 ### _Bots desenvolvido pelos membros do grupo_
+- PromoteBot ([GitHub](https://github.com/cleitonleonel/PromoteBot)) - Membro: [CleitonLC](https://github.com/cleitonleonel) - Um userbot projetado para engajamento e divulgação estratégica em fóruns do Telegram. Com monitoramento contínuo e respostas automáticas, este bot ajuda a amplificar mensagens, centralizar conteúdo e promover visibilidade em discussões.
+
 - SaoGabrielEmFoco ([@SaoGabrielEmFoco](https://t.me/SaoGabrielEmFoco_bot)) ([GitHub](https://github.com/DigitalCoin1/SGemFoco_bot)) - Membro(s): [DigitalCoin1](https://github.com/DigitalCoin1) - Bot voltado para a comunidade de uma região, onde é possível catalogar e votar em estabelecimentos e/ou serviços.
 
 - Timmoty ([GitHub](https://github.com/Francis-Taylor/Timotty-Master)) - Membro(s): [Francis Taylor](https://github.com/Francis-Taylor) - Bot para Telegram feito com Threads nativa da linguagem Python.
